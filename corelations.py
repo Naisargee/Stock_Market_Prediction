@@ -1,10 +1,13 @@
+
+#### Owned: Naisargee Vora (13bce130)
+#### Contributed: Prajal Trivedi (13bce122)
 #### Calculate Coreltion between diff global markets and display it ####
 #### Calculate Coreltion between diff company and global markets and display it ####
 
 from datafetch2 import *
 from datetime import date
 
-
+#### importing date for data manipulation
 
 ################################################ BSE WITH MARKETS,MCX,INR VALUE #####################################################################
 print()
